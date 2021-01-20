@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Category of Projects 1
 
-[Project 1 Title](/sample_page)
+[Project 1 Will Go Here](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 WilL Go Here](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Will Go Here](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Category of Projects 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
