@@ -2,17 +2,9 @@
 
 ---
 
-### Category of Projects 1
+### Vaccine Distribution vs Covid-19 Deaths
 
-[Project 1 Will Go Here](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Will Go Here](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Will Go Here](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Link to code](/https://github.com/Ken-Freeman/vaccine_distribution.git)
+<img src="/images/bubgraph.png?raw=true/"/>
 
 ---
