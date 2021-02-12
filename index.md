@@ -6,6 +6,6 @@
 
 [Link to code](https://github.com/Ken-Freeman/vaccine_distribution)
 
-<img src="/images/bubgraph.jpeg?raw=true/"/>
+<img src="/images/bubgraph.jpg?raw=true/"/>
 
 ---
